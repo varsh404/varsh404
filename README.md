@@ -64,18 +64,14 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   </samp>
 </h3>
 
-<p align="center">
-  <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<p align="center" >
+  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="supun___lk"  height="32" width="32"/></a>
   &nbsp;&nbsp;&nbsp;
-  
-  <img alt="X" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/x/x-original.svg" />  
+  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="supun___lk"  height="32" width="32"/></a>
   &nbsp;&nbsp;&nbsp;
-  
-  <img alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> 
-  &nbsp;&nbsp;&nbsp;
-  
-  <img alt="Email" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/> 
+  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="supun___lk"  height="32" width="32"/></a>
 </p>
+
 
 <p align="center">
   <p align="center">---------------------</p>
