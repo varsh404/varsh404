@@ -15,28 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   
 -->
+
 <p align="center">
 <picture >
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f596_1f3fc/512.webp" type="image/webp">
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f596_1f3fc/512.gif" alt="🖖" width="40" height="40">
     </picture> 
 </p>
-<h3 align="center">
+<h1 align="center">
   <samp>&gt;    
     Yo! I am
     <b><a title="Hariharan Varshaan" target="_blank" href="#">varsh</a></b></samp>
-</h3>
+</h1>
 
+<!--
 <p align="center">
   <p align="center">---------------------</p>
 </p>
-
-<!--
-<h3 align="center">
-  <samp> Hey There!, I am
-    <b><a title="Hariharan Varshaan" target="_blank" href="#">varsh</a></b>
-  </samp>
-</h3>
 -->
 
 <p align="center">
@@ -63,47 +58,38 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 <p align="center">
   <p align="center">---------------------</p>
 </p>
+<h3 align="center">
+  
+  <samp>&gt; <b>say hellooo!</b>
+  </samp>
+</h3>
+
+<p align="center">
+  <img alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  
+  <img alt="X" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/x/x-original.svg" />  
+  &nbsp;&nbsp;&nbsp;
+  
+  <img alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> 
+  &nbsp;&nbsp;&nbsp;
+  
+  <img alt="Email" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/> 
+</p>
+
+<p align="center">
+  <p align="center">---------------------</p>
+</p>
 
 
-[![website](./img/globe-light.svg)]
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)]
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-
-<!--
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
--->
+<br>
+<h1 align="center">
+  <samp>&gt;    
+    <b><a title="Hariharan Varshaan" target="_blank" href="#">Tech Stack</a></b></samp>
+</h1>
 
 <h3 align="center">
-  :gear:
-  <samp>&gt; <b>stack</b>
+  <samp>&gt; <b>languages & frameworks</b>
   </samp>
 </h3>
 
@@ -144,7 +130,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 
 
 <h3 align="center">
-  :ledger:
   <samp>&gt; <b>database</b>
   </samp>
 </h3>
@@ -168,7 +153,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 
 
 <h3 align="center">
-  :hammer_and_wrench:
   <samp>&gt; <b>tools & tech</b>
   </samp>
 </h3>
@@ -179,6 +163,10 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   &nbsp;&nbsp;&nbsp;
 
   <img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+
+  <img  alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" />
+  <img  alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
   &nbsp;&nbsp;&nbsp;
   
   <img alt="VSCode" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
@@ -193,8 +181,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   <img alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   &nbsp;&nbsp;&nbsp;
 
-  <img alt="Github" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  &nbsp;&nbsp;&nbsp;
 
   <img alt="IntelliJIdea" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   &nbsp;&nbsp;&nbsp;
@@ -235,9 +221,5 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 - fundamentals > frameworks  
 - build. refactor. repeat.
 
----
-
-
----
 
 
