@@ -81,7 +81,7 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 <br>
 <h1 align="center">
   <samp>&gt;    
-    <b><a title="Hariharan Varshaan" target="_blank" href="#">Tech Stack</a></b></samp>
+    <b>Tech Stack</b></samp>
 </h1>
 
 <h3 align="center">
