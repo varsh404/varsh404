@@ -16,16 +16,16 @@ Here are some ideas to get you started:
   
 -->
 
-<p align="center">
-<picture >
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f596_1f3fc/512.webp" type="image/webp">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f596_1f3fc/512.gif" alt="🖖" width="40" height="40">
-    </picture> 
-</p>
 <h1 align="center">
-  <samp>&gt;    
-    Yo! I am
-    <b><a title="Hariharan Varshaan" target="_blank" href="#">varsh</a></b></samp>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f596_1f3fc/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f596_1f3fc/512.gif" alt="🖖" width="36" height="36">
+  </picture>
+  &nbsp;
+  <samp>
+    Yo! <br>&gt; 
+    I am <b><a title="Hariharan Varshaan" target="_blank" href="#">varsh</a></b>
+  </samp>
 </h1>
 
 <!--
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   clean ui. solid backend. scalable systems.
 </p>
 
-
+<!--
 <p align="center">
   <p align="center">---------------------</p>
 </p>
@@ -53,32 +53,38 @@ I care about how things work under the hood just as much as how they feel to use
 Most of what I build is driven by curiosity, improvement, and real-world problem solving.  
 Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tunes.
 </p>
-
+-->
+<p align="center"><samp>──────────</samp></p>
 
 <p align="center">
-  <p align="center">---------------------</p>
+  I’m <b>Hariharan Varshaan</b>, an undergraduate who enjoys building polished, usable software with attention to both design and internals.<br>
+  I care about how systems work under the hood just as much as how they feel to use.<br>
+  Outside of code, I unwind with music, movies & shows, games and books.
 </p>
+
+<p align="center"><samp>──────────</samp></p>
+
 <h3 align="center">
-  
-  <samp>&gt; <b>say hellooo!</b>
+  <samp>&gt; 
+    <b>say hellooo!</b>
   </samp>
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f919_1f3fc/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f919_1f3fc/512.gif" alt="🤙" width="25" height="25">
+  </picture>
 </h3>
 
 <p align="center" >
-  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="supun___lk"  height="32" width="32"/></a>
+  <a href="https://www.linkedin.com/in/varshaanhariharan/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="varsh"  height="32" width="32"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="supun___lk"  height="32" width="32"/></a>
+  <a href="https://www.instagram.com/varsssshhhhh" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="varsh"  height="32" width="32"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="supun___lk"  height="32" width="32"/></a>
+  <a href="mailto:varshaanh@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="supun___lk"  height="32" width="32"/></a>
 </p>
 
 
-<p align="center">
-  <p align="center">---------------------</p>
-</p>
+<p align="center"><samp>──────────</samp></p>
 
-
-<br>
 <h1 align="center">
   <samp>&gt;    
     <b>Tech Stack</b></samp>
@@ -120,9 +126,7 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 </p>
 
 
-<p align="center">
-  <p align="center">---------------------</p>
-</p>
+<p align="center"><samp>──────────</samp></p>
 
 
 <h3 align="center">
@@ -143,9 +147,7 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   <img alt="SupaBase" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/> 
 </p>
 
-<p align="center">
-  <p align="center">---------------------</p>
-</p>
+<p align="center"><samp>──────────</samp></p>
 
 
 <h3 align="center">
@@ -183,13 +185,10 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 
 </p>
 
-<p align="center">
-  <p align="center">---------------------</p>
-</p>
+<p align="center"><samp>──────────</samp></p>
 
 
 <h3 align="center">
-  :book:
   <samp>&gt; <b>currently learning</b>
   </samp>
 </h3>
@@ -205,6 +204,12 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   &nbsp;&nbsp;&nbsp;
   
+</p>
+
+##
+
+<p align="center">
+  <b>built with care · kept minimal</b>
 </p>
 
 
