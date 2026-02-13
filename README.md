@@ -57,9 +57,9 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 <p align="center"><samp>──────────</samp></p>
 
 <p align="center">
-  I’m <b>Hariharan Varshaan</b>, an undergraduate who enjoys building polished, usable software with attention to both design and internals.<br>
-  I care about how systems work under the hood just as much as how they feel to use.<br>
-  Outside of code, I unwind with music, movies & shows, games and books.
+  Enjoy building polished, usable software with attention to both design and internals.<br>
+  Obsessed with how systems work under the hood<br>
+  Outside of code: unwind with music, movies & shows, games and books.
 </p>
 
 <p align="center"><samp>──────────</samp></p>
