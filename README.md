@@ -209,13 +209,14 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 
 
 
-
+<!--
 ### 📐 principles
 
 - architecture first  
 - clarity over cleverness  
 - fundamentals > frameworks  
 - build. refactor. repeat.
+-->
 
 
 
