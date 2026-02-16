@@ -90,11 +90,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
     <b>Tech Stack</b></samp>
 </h1>
 
-<h3 align="center">
-  <samp>&gt; <b>languages & frameworks</b>
-  </samp>
-</h3>
-
 <p align="center">
   
   <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -125,15 +120,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 
 </p>
 
-
-<p align="center"><samp>──────────</samp></p>
-
-
-<h3 align="center">
-  <samp>&gt; <b>database</b>
-  </samp>
-</h3>
-
 <p align="center">
   <img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   &nbsp;&nbsp;&nbsp;
@@ -146,14 +132,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   
   <img alt="SupaBase" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/> 
 </p>
-
-<p align="center"><samp>──────────</samp></p>
-
-
-<h3 align="center">
-  <samp>&gt; <b>tools & tech</b>
-  </samp>
-</h3>
 
 <p align="center">
 
@@ -184,9 +162,6 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   &nbsp;&nbsp;&nbsp;
 
 </p>
-
-<p align="center"><samp>──────────</samp></p>
-
 
 <h3 align="center">
   <samp>&gt; <b>currently learning</b>
