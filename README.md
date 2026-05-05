@@ -158,7 +158,7 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   &nbsp;&nbsp;&nbsp;
 
 
-  <img alt="IntelliJIdea" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Postman" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   &nbsp;&nbsp;&nbsp;
 
 </p>
@@ -172,12 +172,14 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
 
   <img alt="NextJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   &nbsp;&nbsp;&nbsp;
-
+  
+<!--
   <img alt="SpringBoot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   &nbsp;&nbsp;&nbsp;
   
   <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   &nbsp;&nbsp;&nbsp;
+  -->
   
 </p>
 
