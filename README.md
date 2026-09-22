@@ -162,14 +162,13 @@ Outside of work and studies, I enjoy movies, series, games, books, and lo-fi tun
   &nbsp;&nbsp;&nbsp;
 
 </p>
-
+<!--
 <h3 align="center">
   <samp>&gt; <b>currently learning</b>
   </samp>
 </h3>
-
+<!--
 <p align="center">
-
   <img alt="NextJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   &nbsp;&nbsp;&nbsp;
   
